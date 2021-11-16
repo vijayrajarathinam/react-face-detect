@@ -1,12 +1,12 @@
-# Welcome to REACT FaceDetection by Vijay!
+# Welcome to React Face Detection by Vijay!
 
 ![https://pixabay.com/images/id-6800401/](https://raw.githubusercontent.com/vijayrajarathinam/react-face-detect/main/public/face.jpg)
 
-**The application uses tinyfacedetect, which is less efficient than standard, so please stay in bright light for effective result**
+**The application uses tinyfacedetect (very performant, much faster, smaller and less resource consuming), so please stay in bright light for highly effective results**
 
-This application is developed by using [face-api.js](https://justadudewhohacks.github.io/face-api.js/docs/index.html).
+The application is developed using [face-api.js](https://justadudewhohacks.github.io/face-api.js/docs/index.html).
 
-This modals for this application is built in [teachable machine](https://teachablemachine.withgoogle.com/).
+Modals for this application is built using [teachable machine](https://teachablemachine.withgoogle.com/).
 
 ## Usage
 
