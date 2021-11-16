@@ -1,6 +1,6 @@
 # Welcome to REACT FaceDetection by Vijay!
 
-![https://pixabay.com/images/id-6800401/](/face.jpg)
+![https://pixabay.com/images/id-6800401/](https://raw.githubusercontent.com/vijayrajarathinam/react-face-detect/main/public/face.jpg)
 
 **The application uses tinyfacedetect, which is less efficient than standard, so please stay in bright light for effective result**
 
